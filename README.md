@@ -1,6 +1,7 @@
 # MH3511 - Data Analysis with Computer Project
 *A data analysis project done for the module MH3511 Data Analysis with Computer in Nanyang Technological University AY2020-21 Semester 2*  
-*A detailed report can be found in [Report.pdf](https://github.com/nicholasneo78/data-analysis-with-computer/blob/main/Report.pdf) in the same repository*
+*A detailed report can be found in [Report.pdf](https://github.com/nicholasneo78/data-analysis-with-computer/blob/main/Report.pdf) in the same repository*   
+  
 **Aim**   
 Find the Relationship Between Attrition of Credit Card Users and Other Variables   
   
